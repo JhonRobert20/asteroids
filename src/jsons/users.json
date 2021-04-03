@@ -1,0 +1,38 @@
+[
+  {
+    "name"   : "user1",
+    "nick"     : "user1",
+    "password" : "user1",
+    "email"    : "hola1@hola.com"
+  },
+  {
+    "name"   : "user2",
+    "nick"     : "user2",
+    "password" : "user2",
+    "email"    : "hola2@hola.com"
+  },
+  {
+    "name"   : "user3",
+    "nick"     : "user3",
+    "password" : "user3",
+    "email"    : "hola3@hola.com"
+  },
+  {
+    "name"   : "user4",
+    "nick"     : "user4",
+    "password" : "user4",
+    "email"    : "hola4@hola.com"
+  },
+  {
+    "name"   : "user5",
+    "nick"     : "user5",
+    "password" : "user5",
+    "email"    : "hola5@hola.com"
+  },
+  {
+    "name"   : "user6",
+    "nick"     : "user6",
+    "password" : "user6",
+    "email"    : "hola6@hola.com"
+  }
+]

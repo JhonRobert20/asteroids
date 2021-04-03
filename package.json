@@ -1,0 +1,23 @@
+{
+  "name": "ateroides",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "jhon",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.6.3",
+    "mongodb": "^3.6.5",
+    "mongoose": "^5.12.3"
+  }
+}
