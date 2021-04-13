@@ -23,8 +23,6 @@ app.route('/neas/:full_name')
 If you want to make any change in the path of mongo database go to src/mongo/connection.js;
 
 # test
-I don't use any test in postman, because i forgive to change the status code in the differents paths, so all return a status code of 200.
-
 The test in node was maked with jest. Just use npm test.
 
 Ty for your time
